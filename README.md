@@ -13,7 +13,7 @@ Football prediction is a Python project that crawls data and predicts match winn
 
 These guides are for Ubuntu-based systems.
 
-To install Scrapy on Ubuntu-based systems, you need to install these dependencies:
+To install Scrapy, you need to install these dependencies:
 
 ```bash
 sudo apt-get install python3 python3-dev python3-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev
@@ -44,7 +44,7 @@ pip install scrapy
 
 ## Usage
 
-Go to football_prediction/crawler while inside a virtual environment and use these commands to recrete datas.
+Go to football_prediction/crawler while inside a virtual environment and use these commands to re-crete datas.
 
 For football matches of the FIFA World Cups from 1930 to 2018:
 
