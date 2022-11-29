@@ -19,7 +19,7 @@ To install Scrapy, you need to install these dependencies:
 sudo apt-get install python3 python3-dev python3-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev
 ```
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [virtualenv](https://pypi.org/project/virtualenv/) that creates virtual environment for installing other packages:
+Use the package manager pip to install virtualenv that creates virtual environment for installing other packages:
 
 ```bash
 pip install virtualenv
