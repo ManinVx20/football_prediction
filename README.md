@@ -46,14 +46,14 @@ pip install scrapy
 
 Go to football_prediction/crawler while inside a virtual environment and use these commands to re-crete datas.
 
-For football matches of the FIFA World Cups from 1930 to 2018:
+For football matches of the FIFA World Cup from 1930 to 2018:
 
 
 ```bash
 scrapy crawl match -O ../data/fifa_world_cup_historical_data.csv
 ```
 
-For football matches of the FIFA World Cups 2022:
+For football matches of the FIFA World Cup 2022:
 
 
 ```bash
