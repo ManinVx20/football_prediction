@@ -57,5 +57,5 @@ For football matches of the FIFA World Cup 2022:
 
 
 ```bash
-scrapy crawl match -O ../data/fifa_world_cup_fixtures_data.csv -a tag=new
+scrapy crawl match -O ../data/fifa_world_cup_fixture.csv -a tag=new
 ```
